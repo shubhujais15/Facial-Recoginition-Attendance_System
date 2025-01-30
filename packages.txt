@@ -1,0 +1,6 @@
+py -3.10 -m venv myenv
+myenv\Scripts\activate
+pip install cmake
+pip install face_recognition
+pip install opencv-python
+pip install numpy
